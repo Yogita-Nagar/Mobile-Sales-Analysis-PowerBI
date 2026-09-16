@@ -128,15 +128,14 @@ These filters allow users to explore the sales data from different perspectives.
 
 ## 💡 Key Insights
 
-The dashboard can be used to:
-
-- Monitor overall mobile sales performance
-- Compare sales across different cities
-- Evaluate brand and mobile model performance
-- Understand customer rating patterns
-- Analyze transaction preferences by payment method
-- Identify changes in sales and quantity across different days and months
-- Support data-driven sales performance monitoring
+- The dashboard reports total sales of approximately **62M** across **322 transactions**.
+- The total quantity sold is approximately **2K**, with an average sales value of around **39K**.
+- Among the brands displayed, **Vivo recorded the highest total sales**, followed by **OnePlus**.
+- Sales performance varies across different cities, indicating differences in geographical demand.
+- Transaction analysis shows the distribution of customer purchases across **Credit Card, Cash, Debit Card, and UPI** payment methods.
+- Customer ratings range from **1 to 5**, providing visibility into customer satisfaction patterns.
+- Daily and monthly analysis helps identify variations in sales and quantity over time.
+- The interactive filters allow users to analyze performance by **month, mobile model, brand, day name, and payment method**.
 
 ---
 
